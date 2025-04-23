@@ -30,7 +30,7 @@ This project allows users to analyze the most played songs on Spotify. By select
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/spotify-top-1000-analysis.git
+   git clone https://github.com/dmdlgg/spotify-analysis.git
 2. Install the necessary dependencies
    ```bash
    pip install -r requirements.txt
