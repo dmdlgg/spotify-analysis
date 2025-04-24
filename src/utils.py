@@ -1,7 +1,7 @@
 import pandas as pd
 
 def upload_data():
-    df = pd.read_csv(r'C:\Users\dumed\OneDrive\Documentos\Curso de Python\Projetos\Análise Spotify\data\spotify_tracks.csv')
+    df = pd.read_csv(r'.\data\spotify_tracks.csv')
     df = df.sort_values(by='artist')
     return df
 
